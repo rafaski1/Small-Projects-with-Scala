@@ -1,7 +1,6 @@
-/*This is a simple ATM app. 
-Built in Scala. 
-As a user you will have to input valid card and pin number to access internal ATM menu 
-and make operations on your account*/
+/*This is a simple ATM app built in Scala. 
+As a user you will have to input valid card and pin number to access internal ATM menu.
+Then you will be able to make operations on your account (check balance, withdrawal, deposit).*/
 
 import scala.io.StdIn.readLine
 import scala.util.control.Breaks._
