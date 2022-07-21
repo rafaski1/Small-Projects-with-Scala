@@ -1,8 +1,7 @@
-/*This is a number guessing game. 
-Built in Scala. 
+/*This is a number guessing game built in Scala. 
 As a user you will have to guess a random number. You will have 5 guesses.
 Program will prompt you if you guessed correctly or if your guess is less 
-or more than the fortune number.*/
+or more than the fortune number..*/
 
 import scala.io.StdIn.readLine
 import scala.util.control.Breaks._
