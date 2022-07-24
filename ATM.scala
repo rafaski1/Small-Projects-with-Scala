@@ -5,7 +5,7 @@ Then you will be able to make operations on your account (check balance, withdra
 import scala.io.StdIn.readLine
 import scala.util.control.Breaks._
 
-object Main {
+object ATM {
 
   var balance = 1000
 
