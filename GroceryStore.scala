@@ -19,7 +19,7 @@ class Data(var item:String,var price:Int,var count:Int) {
   }
 }
 
-object Main {
+object GroceryStore {
 
   def main(args: Array[String]): Unit = {
 
