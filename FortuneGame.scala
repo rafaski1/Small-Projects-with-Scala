@@ -7,7 +7,7 @@ import scala.io.StdIn.readLine
 import scala.util.control.Breaks._
 import scala.util.Random
 
-object Main {
+object FortuneGame {
   def main(args: Array[String]): Unit = {
 
    println("Welcome to the game of Fortune.")
