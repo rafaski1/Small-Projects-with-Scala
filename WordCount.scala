@@ -7,7 +7,7 @@ import scala.io.StdIn.readLine
 import scala.collection.mutable.ListBuffer
 import scala.collection.mutable.Map
 
-object Main {
+object WordCount {
 
   def main(args: Array[String]): Unit = {
 
