@@ -7,7 +7,7 @@ Exploring classes, objects, data structures and functions in Scala.
 import scala.io.StdIn.readLine
 import scala.collection.mutable.ListBuffer
 
-class Data(var item:String,var price:Int,var count:Int) {
+class Data (var item:String,var price:Int,var count:Int) {
   def printData (): Unit = {
     println(item)
     println(price)
